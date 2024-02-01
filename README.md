@@ -1,6 +1,6 @@
 # Project 2: Getting Started with MPI
 
-## Due: EOD, 9 February
+## Due: EOD, 15 February
 
 ## Learning goals
 
